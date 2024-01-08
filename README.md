@@ -2,8 +2,8 @@
 
 A simple web app to display personalized holidays wishes! ❄️
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/Jkct0NXMuFQ/0.jpg)](https://youtu.be/Jkct0NXMuFQ)
 
 ## Live Website
 [Link to Website](https://happy-holidays.streamlit.app/?name=Coding%20Is%20Fun%20Community)
